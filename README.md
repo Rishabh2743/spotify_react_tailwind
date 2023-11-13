@@ -21,9 +21,9 @@ React + Tailwind a Spotify clone.
    - Using the react-range package for the player range slider.
    - Managing global state with Redux.
 4. section 4
-   - Search bölümünü kodluyoruz
-   - Drag scrollbar paketini kurup ufak bir carousel hazırlıyoruz
-   - Bolca tailwind kullanıyoruz :)
+    - Coding the Search section.
+    - Implementing a drag scrollbar package for a small carousel.
+    - Utilizing Tailwind extensively.
 5. section 5
    - Managing Full Screen Player.
    - Using a hook for Full Screen functionality.
